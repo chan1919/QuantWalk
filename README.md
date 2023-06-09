@@ -1,2 +1,2 @@
 # CryptoQuantWalk
-Quantitative Cryptocurrency Contract Trading.Based on backtrader and python-binance.
+Quantitative Cryptocurrency Contract Trading.Based on backtrader.
