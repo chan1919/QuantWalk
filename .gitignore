@@ -163,3 +163,4 @@ cython_debug/
 
 data/
 Config/config.py
+ccxt_test.ipynb
